@@ -177,7 +177,7 @@ class _HomeState extends State<Home> {
                 ],
               ),
             ),
-            onTap: () => goToEditGoal(context, goal),
+            onTap: () => goToGoalDetail(context, goal),
           );
         },
       ),

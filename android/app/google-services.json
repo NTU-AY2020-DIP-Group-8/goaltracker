@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815394565068",
+    "firebase_url": "https://dip-gr8.firebaseio.com",
+    "project_id": "dip-gr8",
+    "storage_bucket": "dip-gr8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815394565068:android:efaf080a9054aa8b368b69",
+        "android_client_info": {
+          "package_name": "tech.urmilshroff.goalkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815394565068-d6pbg7m3bvh716n2m4if1vitgqsl29hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJn_-PZRBPR-v-LaA_YUDucTUABicx9WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815394565068-d6pbg7m3bvh716n2m4if1vitgqsl29hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

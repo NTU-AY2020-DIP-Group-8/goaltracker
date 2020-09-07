@@ -20,6 +20,7 @@ class Db implements IDatabase {
   final String colId = 'id';
   final String colTitle = 'title';
   final String colBody = 'body';
+  final String colPercent = 'percent';
   final String colDeadLine = 'deadLine';
   final String dbName = 'goals.db';
 
@@ -29,6 +30,7 @@ class Db implements IDatabase {
         $colId INTEGER PRIMARY KEY AUTOINCREMENT,
         $colTitle TEXT NOT NULL,
         $colBody TEXT NOT NULL,
+        $colPercent TEXT NOT NULL,
         $colDeadLine DATETIME)
         ''');
   }

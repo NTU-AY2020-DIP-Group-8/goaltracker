@@ -27,7 +27,7 @@ class CreateGoalState extends State<CreateGoal> {
   final IRepository repository;
   final NotificationCenter notificationCenter;
 
-  Goal goal = new Goal('', '');
+  Goal goal = new Goal('', '', 0);
   Color invertColor;
 
   FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
